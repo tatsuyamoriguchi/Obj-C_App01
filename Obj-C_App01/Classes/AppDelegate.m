@@ -13,6 +13,7 @@
 @end
 
 @implementation AppDelegate
+@synthesize selectedURL;
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
